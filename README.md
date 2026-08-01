@@ -14,3 +14,4 @@
 
 ## 说明
 任务保存在本地的 `tasks.json`（已加入 .gitignore，不会提交）
+忽略了.DS_Store
